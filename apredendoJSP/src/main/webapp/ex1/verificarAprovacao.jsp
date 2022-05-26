@@ -22,7 +22,7 @@
 		} else {
 			out.print("Aluno: " + nome + " foi reprovado com a média: " + media );
 		}
-
+		
 	%>
 
 </body>
